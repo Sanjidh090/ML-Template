@@ -3,9 +3,6 @@
   This repo contains some copy pasteable code which can be good for dataset exploration. Other than doing same vibe coding every time you can just get a hand on!
 </p>
 
-```
-unique.py
-```
 ```python
 import pandas as pd
 import numpy as np

@@ -1,6 +1,6 @@
 %pip install --upgrade tensorflow
 %pip install --upgrade protobuf
-import numpy as nnp
+import numpy as np
 import pandas as pd
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"

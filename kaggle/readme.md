@@ -67,7 +67,7 @@ When adding new resources, consider noting:
 
 <div align="center">
 
-**Happy Learning!  🎉**
+**Thank you for reading. Happy Kaggling and Trust your CV!  🎉**
 
 *Part of the [ML-Template](https://github.com/Sanjidh090/ML-Template) collection*
 
